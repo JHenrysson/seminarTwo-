@@ -41,7 +41,9 @@ public class BankLogic {
                 System.out.println("3.View all accounts");
                 System.out.println("4.Deposit money ");
                 System.out.println("5.Withdraw money");
-                System.out.println("Please enter a choice");
+                System.out.println("6.Exit");
+                System.out.println("Please enter a choice: ");
+
                 int customerMenuInput = scanner.nextInt();
 
                 switch (customerMenuInput) {

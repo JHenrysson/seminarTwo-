@@ -5,7 +5,7 @@ public class Main {
 
         BankLogic myBankLogic = new BankLogic (); // creating an object/instance(same) of bankLogic
 
-        myBankLogic.startUp();
+        myBankLogic.startUp();// calls startup
 
 
     }
